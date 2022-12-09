@@ -4,11 +4,11 @@ server:
 twitter-to-kafka-service:
   welcome-message: Hello Twitter
   twitter-keywords:
-    - Bitcoin
-    - Ethereum
-    - Cardano
-    - Solana
-    - Polygon
+    - Zloty
+    - Euro
+    - Dolar
+    - Marka
+    - Lira
   all-keywords:
     - john
     - smith
