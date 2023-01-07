@@ -2,7 +2,7 @@ elastic-query-service:
   version: v1
 
 server:
-  port: 8183
+  port: 8083
   servlet:
     context-path: /elastic-query-service
 
