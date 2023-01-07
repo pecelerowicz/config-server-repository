@@ -17,5 +17,5 @@ elastic-config:
 
 user-config:
   user-name: test
-  password: "{noop}test1234"
+  password: test1234
   roles: USER
